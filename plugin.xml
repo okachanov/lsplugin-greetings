@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Greetings</lang>
+	</name>
+	<author>
+		<lang name="default">rafrica.net</lang>
+	</author>
+	<homepage>http://we.rafrica.net/</homepage>
+	<version>1.0.1</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Lepra-style greetings. Phrases can be edited in \templates\skin\default\list.txt</lang>
+		<lang name="russian">Lepra-style greetings. Список фраз можно редактировать в \templates\skin\default\list.txt</lang>
+	</description>
+
+</plugin>
