@@ -7,7 +7,7 @@
 		<lang name="default">rafrica.net</lang>
 	</author>
 	<homepage>http://we.rafrica.net/</homepage>
-	<version>1.0.1</version>
+	<version>1.1.1</version>
 	<requires>
 		<livestreet>0.4.2</livestreet>
 		<plugins>
